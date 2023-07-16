@@ -14,7 +14,7 @@ Install the requirements. Run `setup.sh` or enter the given commands manually:
 ```bash
 cd project-dir
 go build -ldflags "-H=windowsgui" -o fish.exe src/main.go
-fish.exe
+./fish.exe
 ```
 
 To leave use `ALT + F4`.
