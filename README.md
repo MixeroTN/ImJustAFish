@@ -5,7 +5,7 @@
 ## Requirements
 
 - `Google Chrome` installed.
-- `Go Programming Language` installed.
+- `Go Programming Language` installed (to build by yourself).
 
 ## How to setup and run
 
@@ -21,4 +21,4 @@ To leave use `ALT + F4`.
 
 ## FAQ
 
-- **Why I'm not providing the ready .exe file?** Transparency and... Windows Defender. The program isn't certified and will be captured by Defender unless it has been made on your computer. I'm not sure what exactly is causing this.
+- **Windows Defender warns about .exe downloaded from the Releases page!** The program isn't certified and can be even captured by Defender unless it has been made on your computer. We also know this code can be understood as malicious.
