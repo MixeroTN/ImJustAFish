@@ -17,7 +17,7 @@ go build -ldflags "-H=windowsgui" -o fish.exe src/main.go
 ./fish.exe
 ```
 
-To leave use `ALT + F4`.
+To leave use <kbd>ALT</kbd> + <kbd>F4</kbd>.
 
 ## FAQ
 
